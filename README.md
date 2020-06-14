@@ -16,6 +16,7 @@ You need to make sure that the below requirements are covered:
 - The system should be able to allow the client to enter, validate, and save multiple credit cards.
 - The system must adhere to the microservices principles.
 - The system must be well secured.
+- The system should be able to handle errors gracefully.
 - The client must be notified by email and SMS once a successful payment completed.
 - The client must receive a digital invoice (PDF file) in an email.
 - The client must be notified by email and SMS in case of a failed payment.
