@@ -33,6 +33,7 @@ Documents (text and diagrams) arranged properly covering everything mentioned pr
 ## Example UML diagram
 
 You can use similar diagrams to describe **all communications** between the billing system components:
+> Open the below using stackedit.io so that you'll be able to see the actual diagram
 
 ```mermaid
 sequenceDiagram
