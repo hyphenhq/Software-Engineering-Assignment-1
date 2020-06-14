@@ -26,7 +26,7 @@ You need to make sure that the below requirements are covered:
 - The client should not be able to use Hyphen components and services if the payment is due and the last attempt has failed.
 
 ## **Process**
-**Describe all system components (services, technologies to be used, interfaces),** **make sure to provide as much details as possible**, use text and drawings and finally **justify all of your decisions** 
+**Describe all system components (services, technologies to be used, interfaces),make sure to provide as much details as possible, use text and drawings and finally justify all of your decisions** 
 
 ## **Deliverables**
 
