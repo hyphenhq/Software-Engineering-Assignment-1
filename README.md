@@ -12,8 +12,6 @@ Design a complete billing system which will be used to manage the different type
 You need to make sure that the below requirements are covered:
 
 - The billing system must be able to integrate with multiple payment gateways.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
 - The system must support both one time payment and subscription.
 - The system should be able to allow the client to enter, validate, and save multiple credit cards.
 - The system must adhere to the microservices principles.
